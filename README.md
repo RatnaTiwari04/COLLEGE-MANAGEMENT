@@ -117,6 +117,9 @@ Display an exit message.
 
 This algorithm provides a high-level overview of the program's logic, including the main flow of user interactions and the corresponding actions performed based on the user's choices, Specific details and error handling can be further refined based on the requirements and constraints of your college management system.
 
+![Screenshot 2024-09-11 193921](https://github.com/user-attachments/assets/a5df4c6d-a1f1-4292-9c78-1d96a67bdfbd)
+![Screenshot 2024-09-11 193938](https://github.com/user-attachments/assets/75c2682c-e67f-46b7-a7d2-958927c3009a)
+![Screenshot 2024-09-11 193955](https://github.com/user-attachments/assets/63eea401-8630-46fa-aec9-824e5388564f)
 ![Screenshot 2024-09-11 194004](https://github.com/user-attachments/assets/0d759aaa-4c33-4895-acfc-3ed11c49ee35)
 
 
