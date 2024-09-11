@@ -117,6 +117,9 @@ Display an exit message.
 
 This algorithm provides a high-level overview of the program's logic, including the main flow of user interactions and the corresponding actions performed based on the user's choices, Specific details and error handling can be further refined based on the requirements and constraints of your college management system.
 
+![Screenshot 2024-09-11 194004](https://github.com/user-attachments/assets/0d759aaa-4c33-4895-acfc-3ed11c49ee35)
+
+
 Conclusion
 
 In conclusion, the college management system program provides a basic yet functional solution for managing key aspects of college administration, including courses, subjects, students, faculties, attendance, and marks. The modular design of the program enhances its readability, maintainability, and scalability. By organizing the code into separate modules, each responsible for specific functionalities, the program promotes code reusability and ease of extension.
